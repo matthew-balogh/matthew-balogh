@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**matthew-balogh/matthew-balogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="border: none;">
+  <tr style="border: none;">
+    <td width="70%" valign="top" style="border: none;">
+      <img src="./assets/bm.jpg" width="100%">
+    </td>
+    <td width="30%" valign="top" style="border: none;">
+      <blockquote>
+        <em>“What's right for most people in most situations isn't right for everyone in every situation! Real morality lies in following one's own heart.”</em><br><br>
+        <em>― Portia, Bicentennial Man</em>
+      </blockquote>
+    </td>
+  </tr>
+</table>
